@@ -1,0 +1,6 @@
+[
+  {"title": "Oct Foundations", "due_on": "2026-10-31T23:59:59Z", "description": "terraform apply yields a running platform; profile -> need -> ranked explainable matches; full 1M-athlete batch recompute timed."},
+  {"title": "Nov Distributed", "due_on": "2026-11-30T23:59:59Z", "description": "Async recompute via managed queue and horizontal workers; idempotent under duplicates/restarts; faster than Oct baseline."},
+  {"title": "Dec Agents", "due_on": "2026-12-31T23:59:59Z", "description": "LangGraph agent using MCP tools under user permissions, checkpointed, human approval, eval suite."},
+  {"title": "Jan Production", "due_on": "2027-01-31T23:59:59Z", "description": "Observable, load-tested, one bottleneck fixed with numbers, degrades gracefully."}
+]

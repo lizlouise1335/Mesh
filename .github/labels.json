@@ -1,0 +1,20 @@
+[
+  {"name": "area:backend", "color": "1d76db"},
+  {"name": "area:data", "color": "1d76db"},
+  {"name": "area:matching", "color": "1d76db"},
+  {"name": "area:infra", "color": "1d76db"},
+  {"name": "area:distributed", "color": "1d76db"},
+  {"name": "area:mcp", "color": "1d76db"},
+  {"name": "area:agents", "color": "1d76db"},
+  {"name": "area:security", "color": "1d76db"},
+  {"name": "area:observability", "color": "1d76db"},
+  {"name": "area:frontend", "color": "1d76db"},
+  {"name": "P0", "color": "b60205"},
+  {"name": "P1", "color": "d93f0b"},
+  {"name": "P2", "color": "fbca04"},
+  {"name": "type:feature", "color": "0e8a16"},
+  {"name": "type:infrastructure", "color": "0e8a16"},
+  {"name": "type:data", "color": "0e8a16"},
+  {"name": "type:test", "color": "0e8a16"},
+  {"name": "type:documentation", "color": "0e8a16"}
+]
